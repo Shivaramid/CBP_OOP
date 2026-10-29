@@ -1,0 +1,327 @@
+2026-10-29 21:54:15
+Ticket: CMP-2026-0001
+Action: TICKET_CREATED
+By: CIT-001 (CITIZEN)
+Details: Demo complaint registered
+----------------------------------------------------------------
+2026-10-29 21:54:15
+Action: USER_LOGIN
+By: ADM-001 (ADMINISTRATOR)
+Details: User logged in successfully: admin
+----------------------------------------------------------------
+2026-10-29 21:54:15
+Ticket: CMP-2026-0006
+Action: TICKET_CREATED
+By: CIT-001 (CITIZEN)
+Details: Created complaint in Ward: Ward 1 - Keesara, Category: GARBAGE, Priority: MEDIUM
+----------------------------------------------------------------
+2026-10-29 21:54:15
+Ticket: CMP-2026-0007
+Action: TICKET_CREATED
+By: CIT-001 (CITIZEN)
+Details: Created complaint in Ward: Ward 1 - Keesara, Category: ROAD, Priority: MEDIUM
+----------------------------------------------------------------
+2026-10-29 21:54:15
+Ticket: CMP-2026-0007
+Action: TICKET_ASSIGNED_TO_WARD_OFFICER
+Status Changed: OPEN -> ASSIGNED
+By: GRO-001 (GRO)
+Details: Assigned to Ward Officer: Vikram Varma
+----------------------------------------------------------------
+2026-10-29 21:54:15
+Ticket: CMP-2026-0007
+Action: TICKET_ASSIGNED_TO_FIELD_WORKER
+Status Changed: ASSIGNED -> ASSIGNED
+By: WO-001 (WARD_OFFICER)
+Details: Assigned to Field Worker: Ramesh Kumar
+----------------------------------------------------------------
+2026-10-29 21:54:15
+Ticket: CMP-2026-0007
+Action: TICKET_ACCEPTED
+Status Changed: ASSIGNED -> ACCEPTED
+By: FW-001 (FIELD_WORKER)
+Details: Field worker accepted task.
+----------------------------------------------------------------
+2026-10-29 21:54:15
+Ticket: CMP-2026-0007
+Action: WORK_STARTED
+Status Changed: ACCEPTED -> IN_PROGRESS
+By: FW-001 (FIELD_WORKER)
+Details: Worker began field operations.
+----------------------------------------------------------------
+2026-10-29 21:54:15
+Ticket: CMP-2026-0007
+Action: TICKET_RESOLVED
+Status Changed: IN_PROGRESS -> RESOLVED
+By: FW-001 (FIELD_WORKER)
+Details: Resolution: Filled pothole with 40kg bitumen cold mix
+----------------------------------------------------------------
+2026-10-29 21:54:15
+Ticket: CMP-2026-0007
+Action: TICKET_CLOSED
+Status Changed: RESOLVED -> CLOSED
+By: CIT-001 (CITIZEN)
+Details: Ticket marked CLOSED.
+----------------------------------------------------------------
+2026-10-29 21:54:15
+Ticket: CMP-2026-0007
+Action: FEEDBACK_SUBMITTED
+By: CIT-001 (CITIZEN)
+Details: Rating: 5/5 | Comment: Excellent road repair!
+----------------------------------------------------------------
+2026-10-29 21:54:15
+Ticket: CMP-2026-0008
+Action: TICKET_CREATED
+By: CIT-001 (CITIZEN)
+Details: Created complaint in Ward: Ward 1 - Keesara, Category: SANITATION, Priority: MEDIUM
+----------------------------------------------------------------
+2026-10-29 21:54:15
+Ticket: CMP-2026-0008
+Action: TICKET_RESOLVED
+Status Changed: IN_PROGRESS -> RESOLVED
+By: FW-001 (FIELD_WORKER)
+Details: Resolution: Sidewalk swept
+----------------------------------------------------------------
+2026-10-29 21:54:15
+Ticket: CMP-2026-0008
+Action: TICKET_REOPENED
+Status Changed: RESOLVED -> REOPENED
+By: CIT-001 (CITIZEN)
+Details: Citizen reason: Only half the debris was cleared
+----------------------------------------------------------------
+2026-10-29 21:54:15
+Ticket: CMP-2026-0008
+Action: SLA_BREACH_AUTO_ESCALATED
+Status Changed: REOPENED -> ESCALATED
+By: SYSTEM (SLA_MONITOR)
+Details: Ticket CMP-2026-0008 exceeded SLA deadline (48 hrs). Auto-escalated to GRO.
+----------------------------------------------------------------
+2026-10-29 21:54:15
+Action: CITIZEN_REGISTERED
+By: CIT-003 (CITIZEN)
+Details: New citizen registered: persist_test_user_1793291055432
+----------------------------------------------------------------
+2026-10-29 21:54:15
+Ticket: CMP-2026-0009
+Action: TICKET_CREATED
+By: CIT-003 (CITIZEN)
+Details: Created complaint in Ward: Ward 1 - Keesara, Category: WATER, Priority: MEDIUM
+----------------------------------------------------------------
+2026-10-29 21:55:53
+Action: USER_LOGIN
+By: ADM-001 (ADMINISTRATOR)
+Details: User logged in successfully: admin
+----------------------------------------------------------------
+2026-10-29 21:55:53
+Ticket: CMP-2026-0010
+Action: TICKET_CREATED
+By: CIT-001 (CITIZEN)
+Details: Created complaint in Ward: Ward 1 - Keesara, Category: GARBAGE, Priority: MEDIUM
+----------------------------------------------------------------
+2026-10-29 21:55:53
+Ticket: CMP-2026-0011
+Action: TICKET_CREATED
+By: CIT-001 (CITIZEN)
+Details: Created complaint in Ward: Ward 1 - Keesara, Category: ROAD, Priority: MEDIUM
+----------------------------------------------------------------
+2026-10-29 21:55:53
+Ticket: CMP-2026-0011
+Action: TICKET_ASSIGNED_TO_WARD_OFFICER
+Status Changed: OPEN -> ASSIGNED
+By: GRO-001 (GRO)
+Details: Assigned to Ward Officer: Vikram Varma
+----------------------------------------------------------------
+2026-10-29 21:55:53
+Ticket: CMP-2026-0011
+Action: TICKET_ASSIGNED_TO_FIELD_WORKER
+Status Changed: ASSIGNED -> ASSIGNED
+By: WO-001 (WARD_OFFICER)
+Details: Assigned to Field Worker: Ramesh Kumar
+----------------------------------------------------------------
+2026-10-29 21:55:53
+Ticket: CMP-2026-0011
+Action: TICKET_ACCEPTED
+Status Changed: ASSIGNED -> ACCEPTED
+By: FW-001 (FIELD_WORKER)
+Details: Field worker accepted task.
+----------------------------------------------------------------
+2026-10-29 21:55:53
+Ticket: CMP-2026-0011
+Action: WORK_STARTED
+Status Changed: ACCEPTED -> IN_PROGRESS
+By: FW-001 (FIELD_WORKER)
+Details: Worker began field operations.
+----------------------------------------------------------------
+2026-10-29 21:55:53
+Ticket: CMP-2026-0011
+Action: TICKET_RESOLVED
+Status Changed: IN_PROGRESS -> RESOLVED
+By: FW-001 (FIELD_WORKER)
+Details: Resolution: Filled pothole with 40kg bitumen cold mix
+----------------------------------------------------------------
+2026-10-29 21:55:53
+Ticket: CMP-2026-0011
+Action: TICKET_CLOSED
+Status Changed: RESOLVED -> CLOSED
+By: CIT-001 (CITIZEN)
+Details: Ticket marked CLOSED.
+----------------------------------------------------------------
+2026-10-29 21:55:53
+Ticket: CMP-2026-0011
+Action: FEEDBACK_SUBMITTED
+By: CIT-001 (CITIZEN)
+Details: Rating: 5/5 | Comment: Excellent road repair!
+----------------------------------------------------------------
+2026-10-29 21:55:53
+Ticket: CMP-2026-0012
+Action: TICKET_CREATED
+By: CIT-001 (CITIZEN)
+Details: Created complaint in Ward: Ward 1 - Keesara, Category: SANITATION, Priority: MEDIUM
+----------------------------------------------------------------
+2026-10-29 21:55:53
+Ticket: CMP-2026-0012
+Action: TICKET_RESOLVED
+Status Changed: IN_PROGRESS -> RESOLVED
+By: FW-001 (FIELD_WORKER)
+Details: Resolution: Sidewalk swept
+----------------------------------------------------------------
+2026-10-29 21:55:53
+Ticket: CMP-2026-0012
+Action: TICKET_REOPENED
+Status Changed: RESOLVED -> REOPENED
+By: CIT-001 (CITIZEN)
+Details: Citizen reason: Only half the debris was cleared
+----------------------------------------------------------------
+2026-10-29 21:55:54
+Action: CITIZEN_REGISTERED
+By: CIT-004 (CITIZEN)
+Details: New citizen registered: persist_test_user_1793291154004
+----------------------------------------------------------------
+2026-10-29 21:55:54
+Ticket: CMP-2026-0013
+Action: TICKET_CREATED
+By: CIT-004 (CITIZEN)
+Details: Created complaint in Ward: Ward 1 - Keesara, Category: WATER, Priority: MEDIUM
+----------------------------------------------------------------
+2026-10-29 21:57:41
+Action: USER_LOGIN
+By: ADM-001 (ADMINISTRATOR)
+Details: User logged in successfully: admin
+----------------------------------------------------------------
+2026-10-29 21:57:41
+Ticket: CMP-2026-0014
+Action: TICKET_CREATED
+By: CIT-001 (CITIZEN)
+Details: Created complaint in Ward: Ward 1 - Keesara, Category: GARBAGE, Priority: MEDIUM
+----------------------------------------------------------------
+2026-10-29 21:57:41
+Ticket: CMP-2026-0015
+Action: TICKET_CREATED
+By: CIT-001 (CITIZEN)
+Details: Created complaint in Ward: Ward 1 - Keesara, Category: ROAD, Priority: MEDIUM
+----------------------------------------------------------------
+2026-10-29 21:57:41
+Ticket: CMP-2026-0015
+Action: TICKET_ASSIGNED_TO_WARD_OFFICER
+Status Changed: OPEN -> ASSIGNED
+By: GRO-001 (GRO)
+Details: Assigned to Ward Officer: Vikram Varma
+----------------------------------------------------------------
+2026-10-29 21:57:41
+Ticket: CMP-2026-0015
+Action: TICKET_ASSIGNED_TO_FIELD_WORKER
+Status Changed: ASSIGNED -> ASSIGNED
+By: WO-001 (WARD_OFFICER)
+Details: Assigned to Field Worker: Ramesh Kumar
+----------------------------------------------------------------
+2026-10-29 21:57:41
+Ticket: CMP-2026-0015
+Action: TICKET_ACCEPTED
+Status Changed: ASSIGNED -> ACCEPTED
+By: FW-001 (FIELD_WORKER)
+Details: Field worker accepted task.
+----------------------------------------------------------------
+2026-10-29 21:57:41
+Ticket: CMP-2026-0015
+Action: WORK_STARTED
+Status Changed: ACCEPTED -> IN_PROGRESS
+By: FW-001 (FIELD_WORKER)
+Details: Worker began field operations.
+----------------------------------------------------------------
+2026-10-29 21:57:41
+Ticket: CMP-2026-0015
+Action: TICKET_RESOLVED
+Status Changed: IN_PROGRESS -> RESOLVED
+By: FW-001 (FIELD_WORKER)
+Details: Resolution: Filled pothole with 40kg bitumen cold mix
+----------------------------------------------------------------
+2026-10-29 21:57:41
+Ticket: CMP-2026-0015
+Action: TICKET_CLOSED
+Status Changed: RESOLVED -> CLOSED
+By: CIT-001 (CITIZEN)
+Details: Ticket marked CLOSED.
+----------------------------------------------------------------
+2026-10-29 21:57:41
+Ticket: CMP-2026-0015
+Action: FEEDBACK_SUBMITTED
+By: CIT-001 (CITIZEN)
+Details: Rating: 5/5 | Comment: Excellent road repair!
+----------------------------------------------------------------
+2026-10-29 21:57:41
+Ticket: CMP-2026-0016
+Action: TICKET_CREATED
+By: CIT-001 (CITIZEN)
+Details: Created complaint in Ward: Ward 1 - Keesara, Category: SANITATION, Priority: MEDIUM
+----------------------------------------------------------------
+2026-10-29 21:57:41
+Ticket: CMP-2026-0016
+Action: TICKET_RESOLVED
+Status Changed: IN_PROGRESS -> RESOLVED
+By: FW-001 (FIELD_WORKER)
+Details: Resolution: Sidewalk swept
+----------------------------------------------------------------
+2026-10-29 21:57:41
+Ticket: CMP-2026-0016
+Action: TICKET_REOPENED
+Status Changed: RESOLVED -> REOPENED
+By: CIT-001 (CITIZEN)
+Details: Citizen reason: Only half the debris was cleared
+----------------------------------------------------------------
+2026-10-29 21:57:42
+Action: CITIZEN_REGISTERED
+By: CIT-005 (CITIZEN)
+Details: New citizen registered: persist_test_user_1793291261969
+----------------------------------------------------------------
+2026-10-29 21:57:42
+Ticket: CMP-2026-0017
+Action: TICKET_CREATED
+By: CIT-005 (CITIZEN)
+Details: Created complaint in Ward: Ward 1 - Keesara, Category: WATER, Priority: MEDIUM
+----------------------------------------------------------------
+2026-10-29 22:18:52
+Action: CITIZEN_REGISTERED
+By: CIT-006 (CITIZEN)
+Details: New citizen registered: Shivaram
+----------------------------------------------------------------
+2026-10-29 22:19:17
+Action: USER_LOGIN
+By: CIT-006 (CITIZEN)
+Details: User logged in successfully: shivaram
+----------------------------------------------------------------
+2026-10-29 22:20:38
+Action: USER_LOGIN
+By: CIT-006 (CITIZEN)
+Details: User logged in successfully: shivaram
+----------------------------------------------------------------
+2026-10-29 22:21:24
+Ticket: CMP-2026-0018
+Action: TICKET_CREATED
+By: CIT-006 (CITIZEN)
+Details: Created complaint in Ward: Ward 1 - Keesara, Category: GARBAGE, Priority: MEDIUM
+----------------------------------------------------------------
+2026-10-29 22:27:59
+Action: USER_LOGIN
+By: GRO-001 (GRO)
+Details: User logged in successfully: gro_keesara
+----------------------------------------------------------------
